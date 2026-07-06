@@ -35,6 +35,8 @@ This planner treats every route as a chain of probabilistic events. For each rid
 
 That means the output is not just a fast route. It is a route that is fast **and** statistically likely to succeed.
 
+![1783344220235](figs/demonstration.gif)
+
 ## Architecture
 
 ```mermaid
