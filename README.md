@@ -10,9 +10,9 @@ Built for EPFL COM-490 **Large-Scale Data Science for Real-World Data**.
 
 Team J1:
 
-- Jon KuÃƒÂ§i
+- Jon Kuçi
 - Vasileios Gkikas
-- JoÃƒÂ£o Pinto
+- Joao Pinto
 - Yahya Skalli
 - Nicolas Karmolinski
 
