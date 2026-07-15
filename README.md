@@ -2,6 +2,8 @@
 
 Robust Journey Planner is a confidence-aware public transport routing engine for Switzerland. Given an origin, destination, arrival deadline, and target reliability level, it finds the latest route that can still arrive on time with that probability.
 
+Check a short recap on the project on this video: [Video link](https://drive.google.com/file/d/1i5iYZdyGioRQJQsq3XWqOaYKjKddwXhL/view?usp=sharing)
+
 A normal timetable planner asks: "Which route is scheduled to arrive first?" This project asks a harder and more realistic question: "Which route is still likely to work when trains, buses, and transfers are delayed?" To answer that, the system combines Swiss-scale SBB timetable data, historical SBB Istdaten actual-arrival records, OpenStreetMap walking paths, and learned delay distributions.
 
 ## Project Context
